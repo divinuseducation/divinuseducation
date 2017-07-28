@@ -11,13 +11,13 @@ body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 
     background: url('../img/Peacock.jpg') no-repeat right center fixed;
-    -webkit-background-size: contain;
+    -webkit-background-size: cover;
 
-    -moz-background-size: contain;
+    -moz-background-size: cover;
 
-    background-size: contain;
+    background-size: cover;
 
-    -o-background-size: contain;
+    -o-background-size: cover;
 
 
 }
