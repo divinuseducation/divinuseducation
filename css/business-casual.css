@@ -164,7 +164,7 @@ hr {
 
     padding: 30px 15px;
 
-    background: rgba(148, 231, 254,0.7);
+    background: rgba(209, 245, 255,0.7);
 
 }
 
@@ -208,7 +208,7 @@ hr {
 
 footer {
 
-    background: rgba(148, 231, 254,0.7);
+    background: rgba(209, 245, 255,0.7);
 
 }
 
@@ -302,7 +302,7 @@ footer p {
     .navbar-header {
 
         display: none;
-        background: rgba(148, 231, 254,0.7);
+        background: rgba(209, 245, 255,0.7);
 
     }
 
@@ -318,7 +318,7 @@ footer p {
 
         border: none;
 
-        background: rgba(148, 231, 254,0.7);
+        background: rgba(209, 245, 255,0.7);
 
     }
 
@@ -372,7 +372,7 @@ footer p {
 li.dropdown:hover > .dropdown-menu {
 
     display: block;
-    background: rgba(148, 231, 254,0.7);
+    background: rgba(209, 245, 255,0.7);
 
 
 
