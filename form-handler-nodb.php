@@ -9,13 +9,13 @@ $myemail = "info@divinuseducation.com";
 
 // Receive and sanitize input
 
-$name = $_PUT['name'];
+$name = $_POST['name'];
 
-$email = $_PUT['email'];
+$email = $_POST['email'];
 
-$phone = $_PUT['phone'];
+$phone = $_POST['phone'];
 
-$message = $_PUT['message'];
+$message = $_POST['message'];
 
 
 // set up email
